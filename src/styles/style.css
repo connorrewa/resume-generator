@@ -35,6 +35,11 @@ input {
     width: 60%;
 }
 
+input:focus {
+    outline: 2px solid lightblue;
+    border-radius: 1px;
+}
+
 button {
     width: 500px;
 }
